@@ -98,7 +98,10 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 | <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
 | <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
 | <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+|
+ <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+
+
 
 ---
 
@@ -107,7 +110,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Iniciante** Exercícios com menor carga e repetições, foco em técnica.
+5. **Intermediário** Aumento da carga e intensidade, introdução de exercícios mais complexos.
+6. **Avançado** Treinos mais intensos, com foco em hipertrofia ou força
+
+7. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
@@ -121,3 +128,4 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
